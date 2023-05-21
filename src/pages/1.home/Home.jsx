@@ -3,7 +3,6 @@ const Home = () => {
   return (
     <div>
       <h1>HOMEPAGE</h1>
-      <P>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
         Totam voluptatibus nisi cumque distinctio accusamus in doloribus, 
         doloremque dolorum est repudiandae beatae mollitia, eius laboriosam 
@@ -16,7 +15,6 @@ const Home = () => {
         ab iusto minima error culpa, facilis necessitatibus porro ad! Porro 
         accusamus aut sunt voluptatem. Et labore dicta eos veritatis mollitia 
         modi accusamus repellat architecto itaque ipsum.
-      </P>
     </div>
   )
 }
